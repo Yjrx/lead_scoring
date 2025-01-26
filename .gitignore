@@ -1,1 +1,5 @@
+# Ignore Python checkpoints file
 ./ipynb_checkpoints
+
+# Ignore problem statement document
+./problem_statement.docx
