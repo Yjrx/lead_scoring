@@ -1,8 +1,8 @@
-# lead_scoring
+# Lead scoring Case Study
 A case study to understand different elements of machine learning project. This includes
   - Business Problem Solving
   - Git and Github
-  - Machine Learning technique
+  - Machine Learning techniques
 
 
 # Problem Statement
